@@ -1,0 +1,22 @@
+.side-bar
+{
+    flex-direction: column;
+    background-color: azure;
+}
+.heading
+{
+    height: 15vh;
+    margin: 10px 10px 10px 10px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: rgb(205, 242, 242);
+}
+.menu
+{
+    display: flex;
+    flex-direction: column; 
+    justify-content: space-around;
+    background-color: lightsteelblue;
+    height: 85vh;
+}
